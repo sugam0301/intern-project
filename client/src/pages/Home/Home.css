@@ -1,0 +1,11 @@
+element.style{
+    display: block;
+}
+home-container-1{
+    width: 100%;
+}
+.home-container-2{
+    width: 1000px;
+    padding: 24px;
+    box-sizing: border-box;
+}
